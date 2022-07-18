@@ -13,3 +13,6 @@
 
 ## セグメンテーション + hole+ to API
 陥没穴検出APIのための結合
+
+## CAOD：class agnostic object detection
+車道上に限定したクラスを無視した物体検出である。
